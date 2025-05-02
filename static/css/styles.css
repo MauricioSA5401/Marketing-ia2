@@ -3,31 +3,32 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-    background-color: #f4f4f9;
+    background-color: #121212;
+    color: #e0e0e0;
 }
 
 .container {
     max-width: 1200px;
     margin: 0 auto;
-    background: #fff;
+    background: #1e1e1e;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 h1, h2 {
-    color: #333;
+    color: #4fc3f7;
 }
 
 .graph {
     margin: 30px 0;
-    border: 1px solid #ddd;
+    border: 1px solid #333;
     padding: 15px;
     border-radius: 5px;
+    background-color: #1e1e1e;
 }
 
 .caption {
     font-style: italic;
-    color: #666;
+    color: #81d4fa;
 }
-
